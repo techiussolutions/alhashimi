@@ -1264,7 +1264,7 @@ ul.portfolio_filters li a.active:hover {
 	background-color: #eee;
 	background-position: center center;
 	background-size: cover;
-	height: 640px;
+	height: 430px;
 }
 
 .slider-content-holder {
@@ -1664,7 +1664,8 @@ ul.portfolio_filters li a.active:hover {
 
 .felona-request-area {
 	position: relative;
-	z-index: 1;
+	
+	z-index: 2;
 	background: #f8f9fa none repeat scroll 0 0
 }
 
@@ -1691,14 +1692,14 @@ ul.portfolio_filters li a.active:hover {
 	top: 0;
 	left: 0;
 	height: 100%;
-	width: 60%;
+	width: 40%;
 	background: url(../img/request-area_bg.jpg) no-repeat scroll 0 0/cover;
 	z-index: -1
 }
 
 .request-inner {
-	padding: 50px 0;
-	width: 55%;
+	padding: 10px 0;
+	width: 45%;
 }
 
 .request-left {
@@ -1732,17 +1733,17 @@ ul.portfolio_filters li a.active:hover {
 }
 
 .request-left form p input {
-	width: 100%;
+	width: 70%;
 	border: medium none;
 	background: #f8f9fa;
-	padding: 10px 15px;
+	padding: 20px 15px;
 	height: 50px;
 	font-size: 14px;
 	color: #242424
 }
 
 .request-left form p input {
-	width: 100%;
+	width: 70%;
 	border: medium none;
 	background: #f8f9fa;
 	padding: 10px 15px;
@@ -1752,8 +1753,8 @@ ul.portfolio_filters li a.active:hover {
 }
 
 .request-left form p textarea {
-	width: 100%;
-	min-height: 130px;
+	width: 60%;
+	min-height: 20px;
 	border: medium none;
 	background: #f8f9fa;
 	padding: 10px 15px;
@@ -1795,7 +1796,7 @@ ul.portfolio_filters li a.active:hover {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 600;
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 12px;
 	letter-spacing: 1px;
 	-webkit-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s
