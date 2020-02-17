@@ -1010,7 +1010,9 @@ ul.portfolio_filters li a.active:hover {
 
 .mainmenu-area {
 	position: relative;
+
 	z-index: 999
+	
 }
 
 .mainmenu-box {
