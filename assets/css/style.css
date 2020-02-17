@@ -2476,7 +2476,7 @@ ul.quick_links li a:hover {
 }
 
 .about-page-left:before {
-	background: rgba(0, 0, 0, 0.34) none repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 	content: "";
 	height: 100%;
 	left: 0;
