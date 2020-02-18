@@ -2,12 +2,6 @@
 *******************************************
 *******************************************
 
-Template Name: Felona - Appliance Repair Company HTML Template
-Template URL: https://themescare.com/demos/felona-view
-Description: 
-Author: Themescare
-Author URL: https://themeforest.net/user/themescare
-Version: 1.0
 
 * This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
@@ -782,7 +776,7 @@ ul.portfolio_filters li a.active:hover {
 ==================================================*/
 
 .felona-breadcromb-area {
-	background: url(../img/breadcromb.jpg) no-repeat scroll 0 0/cover;
+	background: url(../img/about_page.jpg) no-repeat scroll 0 0/cover;
 	position: relative;
 	z-index: 1;
 	padding-top: 100px;
@@ -1248,7 +1242,7 @@ ul.portfolio_filters li a.active:hover {
 
 .felona-slider-area {
 	position: relative;
-	margin-top: -30px;
+	margin-top: -20px;
 }
 
 .slide-item-1 {
