@@ -935,6 +935,7 @@ ul.portfolio_filters li a.active:hover {
 
 .site-logo {
 	margin: 5px 0;
+	width:480px;
 }
 
 .header-widget-box {
